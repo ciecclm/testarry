@@ -42,5 +42,6 @@ int main(int argc, const char * argv[]) {
     for (i=0;i<N;i++)
         printf("姓名：%s 性别：%s 年 龄：%d\n",a[i].name,a[i].sex,a[i].age);
     delete a;
+    printf("11111111\n");
     return 0;
 }
