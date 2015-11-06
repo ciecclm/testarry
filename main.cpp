@@ -44,6 +44,7 @@ int main(int argc, const char * argv[]) {
     delete a;
     printf("11111111\n");
     printf("22222222\n");
+    printf("33333333\n");
     
     return 0;
 }
